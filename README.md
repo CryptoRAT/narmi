@@ -1,4 +1,4 @@
-Here's a high-level pseudocode to implement the above steps:
+Here's a high-level pseudocode to implement the steps needed:
 
 1. Read the input file
 2. Determine the theater hours of operation for the given day
